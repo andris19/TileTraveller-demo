@@ -1,0 +1,1 @@
+a = input("Sláðu inn")
